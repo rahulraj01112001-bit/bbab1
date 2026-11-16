@@ -1,0 +1,73 @@
+Transaction_ID,Date,Type,Category,Description,Amount_INR,Payment_Method
+TXN0001,2026-04-01,Income,Salary,Salary credit,42267,Bank
+TXN0008,2026-04-04,Expense,Education,Education payment,3053,Bank
+TXN0005,2026-04-06,Expense,Groceries,Groceries payment,5895,UPI
+TXN0011,2026-04-11,Expense,Shopping,Shopping payment,2754,Bank
+TXN0012,2026-04-12,Expense,Dining,Dining payment,1427,Card
+TXN0003,2026-04-14,Income,Other Income,Other Income credit,1378,Bank
+TXN0009,2026-04-14,Expense,Healthcare,Healthcare payment,1291,Card
+TXN0002,2026-04-18,Income,Freelance,Freelance credit,7644,Bank
+TXN0007,2026-04-20,Expense,Utilities,Utilities payment,2114,Bank
+TXN0004,2026-04-24,Expense,Housing,Housing payment,12000,UPI
+TXN0010,2026-04-26,Expense,Entertainment,Entertainment payment,865,Bank
+TXN0006,2026-04-27,Expense,Transport,Transport payment,2148,Bank
+TXN0013,2026-05-01,Income,Salary,Salary credit,42681,Bank
+TXN0023,2026-05-05,Expense,Shopping,Shopping payment,2413,Bank
+TXN0015,2026-05-06,Income,Other Income,Other Income credit,2276,Bank
+TXN0021,2026-05-06,Expense,Healthcare,Healthcare payment,1972,Card
+TXN0022,2026-05-14,Expense,Entertainment,Entertainment payment,1433,UPI
+TXN0014,2026-05-16,Income,Freelance,Freelance credit,3552,Bank
+TXN0017,2026-05-18,Expense,Groceries,Groceries payment,5053,UPI
+TXN0018,2026-05-19,Expense,Transport,Transport payment,2565,Card
+TXN0020,2026-05-19,Expense,Education,Education payment,4573,Bank
+TXN0016,2026-05-24,Expense,Housing,Housing payment,12000,Bank
+TXN0024,2026-05-25,Expense,Dining,Dining payment,1661,Bank
+TXN0019,2026-05-27,Expense,Utilities,Utilities payment,1281,Card
+TXN0025,2026-06-01,Income,Salary,Salary credit,43100,Bank
+TXN0030,2026-06-04,Expense,Transport,Transport payment,2033,Bank
+TXN0033,2026-06-05,Expense,Healthcare,Healthcare payment,1262,Bank
+TXN0031,2026-06-09,Expense,Utilities,Utilities payment,1771,UPI
+TXN0028,2026-06-11,Expense,Housing,Housing payment,12000,UPI
+TXN0026,2026-06-13,Income,Freelance,Freelance credit,8806,Bank
+TXN0032,2026-06-19,Expense,Education,Education payment,3258,Bank
+TXN0034,2026-06-19,Expense,Entertainment,Entertainment payment,1760,UPI
+TXN0035,2026-06-21,Expense,Shopping,Shopping payment,1593,Bank
+TXN0029,2026-06-22,Expense,Groceries,Groceries payment,5439,UPI
+TXN0036,2026-06-22,Expense,Dining,Dining payment,1240,Bank
+TXN0027,2026-06-24,Income,Other Income,Other Income credit,1151,Bank
+TXN0037,2026-07-01,Income,Salary,Salary credit,43162,Bank
+TXN0046,2026-07-02,Expense,Entertainment,Entertainment payment,1638,UPI
+TXN0047,2026-07-04,Expense,Shopping,Shopping payment,1359,Card
+TXN0041,2026-07-06,Expense,Groceries,Groceries payment,6166,Bank
+TXN0044,2026-07-08,Expense,Education,Education payment,3821,Bank
+TXN0038,2026-07-11,Income,Freelance,Freelance credit,8389,Bank
+TXN0045,2026-07-13,Expense,Healthcare,Healthcare payment,1522,Card
+TXN0040,2026-07-18,Expense,Housing,Housing payment,12000,UPI
+TXN0043,2026-07-18,Expense,Utilities,Utilities payment,2137,Card
+TXN0048,2026-07-18,Expense,Dining,Dining payment,1636,Card
+TXN0039,2026-07-19,Income,Other Income,Other Income credit,979,Bank
+TXN0042,2026-07-22,Expense,Transport,Transport payment,1213,Bank
+TXN0049,2026-08-01,Income,Salary,Salary credit,44566,Bank
+TXN0053,2026-08-03,Expense,Groceries,Groceries payment,5607,Card
+TXN0050,2026-08-06,Income,Freelance,Freelance credit,6391,Bank
+TXN0056,2026-08-06,Expense,Education,Education payment,4931,UPI
+TXN0058,2026-08-07,Expense,Entertainment,Entertainment payment,569,Bank
+TXN0060,2026-08-08,Expense,Dining,Dining payment,2060,Card
+TXN0054,2026-08-09,Expense,Transport,Transport payment,2631,Card
+TXN0055,2026-08-10,Expense,Utilities,Utilities payment,1237,Card
+TXN0051,2026-08-17,Income,Other Income,Other Income credit,2030,Bank
+TXN0052,2026-08-18,Expense,Housing,Housing payment,12000,Card
+TXN0059,2026-08-24,Expense,Shopping,Shopping payment,704,UPI
+TXN0057,2026-08-27,Expense,Healthcare,Healthcare payment,1199,Bank
+TXN0061,2026-09-01,Income,Salary,Salary credit,43986,Bank
+TXN0067,2026-09-01,Expense,Utilities,Utilities payment,1601,UPI
+TXN0071,2026-09-05,Expense,Shopping,Shopping payment,3784,Card
+TXN0066,2026-09-09,Expense,Transport,Transport payment,2666,UPI
+TXN0065,2026-09-11,Expense,Groceries,Groceries payment,5318,Card
+TXN0069,2026-09-13,Expense,Healthcare,Healthcare payment,1833,Bank
+TXN0072,2026-09-14,Expense,Dining,Dining payment,1684,Card
+TXN0062,2026-09-16,Income,Freelance,Freelance credit,3757,Bank
+TXN0063,2026-09-21,Income,Other Income,Other Income credit,1510,Bank
+TXN0068,2026-09-21,Expense,Education,Education payment,1360,Bank
+TXN0070,2026-09-25,Expense,Entertainment,Entertainment payment,822,Card
+TXN0064,2026-09-27,Expense,Housing,Housing payment,12000,Card
